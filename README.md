@@ -21,10 +21,9 @@ WebRunner does not request access to cookies, browsing history, downloads, clipb
 
 Saved workflow values are not separately encrypted by WebRunner. Do not store passwords, authentication tokens, or other secrets as reusable workflow values.
 
-- [Privacy Policy](https://ryanpetey.github.io/WebRunner/privacy.html)
+- [Privacy Policy](PRIVACY.md)
 - [Security Model](SECURITY.md)
-- [Support](https://ryanpetey.github.io/WebRunner/support.html)
-- [Report an issue](https://github.com/ryanpetey/WebRunner/issues/new)
+- [Support](https://github.com/ryanpetey/WebRunner/issues/new)
 
 ## Status
 
