@@ -1,0 +1,59 @@
+name: WebRunner support request
+description: Report a workflow, installation, or compatibility problem
+title: "[Support] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve WebRunner.
+
+        **Do not include passwords, authentication tokens, confidential form contents, protected health information, personal data, or other sensitive information.** Describe the control or behavior generically when possible.
+  - type: input
+    id: version
+    attributes:
+      label: WebRunner version
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: input
+    id: chrome
+    attributes:
+      label: Chrome version
+      placeholder: Version number if known
+  - type: dropdown
+    id: area
+    attributes:
+      label: What failed?
+      options:
+        - Mapping a page element
+        - Entering text
+        - Choosing an option
+        - Multi-select
+        - Waiting for an element
+        - Clicking an element
+        - Bookmark launcher
+        - Installation or permissions
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: Describe what you expected without including sensitive site or form data.
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead?
+      description: Include the exact WebRunner error if it contains no sensitive information.
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Sensitive-data check
+      options:
+        - label: I have not included passwords, tokens, confidential form contents, protected health information, or other sensitive data.
+          required: true
