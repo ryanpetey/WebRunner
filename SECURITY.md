@@ -16,6 +16,6 @@ WebRunner does not auto-submit forms unless the user's workflow explicitly conta
 
 ## Reporting a security issue
 
-For ordinary bugs, use the public issue tracker. Do not include passwords, authentication tokens, confidential form contents, protected health information, or other sensitive data in a public issue.
+For ordinary bugs, use the public issue tracker. Do not include passwords, authentication tokens, confidential form contents, protected health information, personal data, or other sensitive information in a public issue.
 
-For the current beta, there is no developer-operated service or credential store to compromise; the extension's source is kept in this repository to make its behavior auditable.
+For the current beta, there is no developer-operated service or credential store. This repository contains the public product, privacy, security, reviewer, and release documentation used for the Chrome Web Store release.
