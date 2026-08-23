@@ -31,7 +31,7 @@ Do not store passwords, authentication tokens, or other secrets as reusable work
 - Product site: https://ryanpetey.github.io/WebRunner/
 - Privacy policy: https://ryanpetey.github.io/WebRunner/privacy.html
 - Support: https://ryanpetey.github.io/WebRunner/support.html
-- Source/security: https://github.com/ryanpetey/WebRunner
+- Project/security: https://github.com/ryanpetey/WebRunner
 
 ## Privacy practices
 
