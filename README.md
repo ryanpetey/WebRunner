@@ -31,7 +31,7 @@ WebRunner executes user-defined actions and can submit forms or change records w
 - [Terms of Use](TERMS.md)
 - [Privacy Policy](PRIVACY.md)
 - [Security Model](SECURITY.md)
-- [Support](https://github.com/ryanpetey/WebRunner/issues/new)
+- [Support](https://github.com/sidecarworks/WebRunner/issues/new)
 
 ## Status
 
