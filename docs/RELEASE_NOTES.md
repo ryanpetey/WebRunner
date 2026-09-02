@@ -1,6 +1,6 @@
-# WebRunner 1.0 Release Candidate
+# WebRunner 1.0.0
 
-This is the hardened first Chrome Web Store candidate.
+WebRunner 1.0.0 is the free first Chrome Web Store release.
 
 - Manifest V3 package with WebRunner's W+arrow icons.
 - Per-origin optional website permissions; no blanket required site access at install time.
