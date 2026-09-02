@@ -30,5 +30,5 @@ On first use, WebRunner presents a one-time Terms of Use / Privacy Policy screen
 - WebRunner does not transmit saved workflows or page content to a developer-operated server.
 - On protected sign-in pages, WebRunner may locally detect whether credential fields appear populated so it can request a genuine user click. It does not store those credential contents as workflow values or transmit them to the developer.
 
-Terms: https://ryanpetey.github.io/WebRunner/terms.html
-Privacy: https://ryanpetey.github.io/WebRunner/privacy.html
+Terms: https://sidecarworks.github.io/WebRunner/terms.html
+Privacy: https://sidecarworks.github.io/WebRunner/privacy.html
