@@ -32,11 +32,11 @@ WebRunner executes user-defined actions and can submit forms or change records w
 
 ## Public URLs
 
-- Product site: https://ryanpetey.github.io/WebRunner/
-- Terms of Use: https://ryanpetey.github.io/WebRunner/terms.html
-- Privacy policy: https://ryanpetey.github.io/WebRunner/privacy.html
-- Support: https://ryanpetey.github.io/WebRunner/support.html
-- Project/security: https://github.com/ryanpetey/WebRunner
+- Product site: https://sidecarworks.github.io/WebRunner/
+- Terms of Use: https://sidecarworks.github.io/WebRunner/terms.html
+- Privacy policy: https://sidecarworks.github.io/WebRunner/privacy.html
+- Support: https://sidecarworks.github.io/WebRunner/support.html
+- Project/security: https://github.com/sidecarworks/WebRunner
 
 ## Privacy practices
 
