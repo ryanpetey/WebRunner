@@ -2,7 +2,9 @@
 
 ## Upload package
 
-Upload the final WebRunner 1.0.0 Chrome Web Store ZIP after the release-candidate smoke test.
+Upload `WebRunner-1.0.0-Chrome-Web-Store.zip`.
+
+WebRunner 1.0 is free. There is no paid functionality, subscription, account, or in-extension purchase flow in this release.
 
 ## Store listing
 
@@ -16,7 +18,7 @@ Productivity → Workflow & Planning
 Point at website fields, save reliable workflows, and run them again without scripts, tab counting, or fixed delays.
 
 **Detailed description**
-WebRunner lets you create and replay repetitive website workflows by pointing directly at the fields and controls you want to use.
+WebRunner is a free Chrome extension for creating and replaying repetitive website workflows by pointing directly at the fields and controls you want to use.
 
 Map text fields, dropdowns, multi-selects, buttons, dynamic controls, waits, and manual checkpoints from Chrome's side panel. Save the workflow once, then run it again without writing scripts, counting Tab presses, relying on screen coordinates, or building fixed delays.
 
