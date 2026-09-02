@@ -2,7 +2,7 @@
 
 **Point. Save. Run.**
 
-WebRunner is a local-first Chrome extension for creating and replaying point-and-click website workflows without scripts, tab counting, screen coordinates, or fixed sleep times.
+WebRunner is a free, local-first Chrome extension for creating and replaying point-and-click website workflows without scripts, tab counting, screen coordinates, or fixed sleep times.
 
 ## What it does
 
@@ -35,4 +35,4 @@ WebRunner executes user-defined actions and can submit forms or change records w
 
 ## Status
 
-WebRunner 1.0 is currently a release candidate being prepared for Chrome Web Store review.
+WebRunner 1.0 is the free first release being submitted to the Chrome Web Store.
