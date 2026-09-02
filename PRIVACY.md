@@ -46,4 +46,4 @@ WebRunner's use of information received from Chrome APIs complies with the Chrom
 
 ## Contact
 
-For support or privacy questions, use the [WebRunner issue tracker](https://github.com/ryanpetey/WebRunner/issues/new). Do not include passwords, authentication tokens, confidential form contents, protected health information, personal data, or other sensitive information in an issue.
+For support or privacy questions, use the [WebRunner issue tracker](https://github.com/sidecarworks/WebRunner/issues/new). Do not include passwords, authentication tokens, confidential form contents, protected health information, personal data, or other sensitive information in an issue.
