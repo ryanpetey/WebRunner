@@ -8,6 +8,8 @@ WebRunner is a local-first Chrome extension for creating and replaying user-defi
 
 When you map or run a workflow on a website you explicitly authorize, WebRunner may process website content needed for that workflow, including page URLs, field labels, accessibility attributes, dropdown choices, mapped-control information, values you choose to save, page readiness, and interactions needed to continue the workflow.
 
+Values you choose to save in a workflow may include personally identifiable information, such as names, email addresses, usernames, or mailing addresses, if you choose to place that information in a workflow. WebRunner stores those saved workflow values locally in Chrome and does not transmit them to the developer.
+
 On sign-in pages, WebRunner may locally detect whether credential fields appear populated so it can determine whether the browser requires a real user click. WebRunner does not store those credential contents as workflow values or send them to the developer.
 
 Workflow definitions, reusable values, workflow settings, and the record that you accepted the current Terms and Privacy Policy are stored locally in Chrome extension storage. Temporary run state is stored for the browser session.
